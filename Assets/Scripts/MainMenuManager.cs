@@ -21,12 +21,6 @@ public class MainMenuManager : MonoBehaviour
          objectToDeactivate.SetActive(false);
     }
 
-    public void OnEventClick()
-    {
-        objectToActivate.SetActive(true);
-        objectToDeactivate.SetActive(false);
-    }
-
     public void OnClick(GameObject gb)
     {
         Debug.Log(gb.transform.name + " Clicked");
