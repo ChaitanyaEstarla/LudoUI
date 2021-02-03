@@ -48,7 +48,6 @@ public class GameplayShopScrollController : MonoBehaviour
             offset = 2.3f * (tabSetter - currentTab);
         }
         
-        Debug.Log(offset);
         Vector2 destinationPosition =
             gameplayScrollRect.localPosition + new Vector3(0, (gameplayScrollRect.GetChild(0).localPosition.y / gameplayScrollRect.childCount) * offset);
         

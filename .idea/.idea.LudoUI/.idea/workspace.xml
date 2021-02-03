@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="300ad22f-0f78-49d1-aa60-35ccc3851372" name="Default Changelist" comment="" />
+    <list default="true" id="300ad22f-0f78-49d1-aa60-35ccc3851372" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideIntoViewport.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/SlideIntoViewport.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Top_Bar.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Top_Bar.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LUDO/Background DEMO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LUDO/Background DEMO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,24 +40,35 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E79EF56A-E1D3-4D86-8C29-2596973600E1/66/7af630c2/IPointerClickHandler.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GenerateLvlRewardsGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17AD9609-AE06-4F2C-9315-931FF97ADCF1/73/e58ce3dd/Color.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TabContentManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SliderTextManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DailyTaskSliderText.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TabController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameplayShopTabController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIHandler.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Delay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GenerateLvlRewardsGrid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TransformAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformAnimation.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +109,9 @@
       <option name="presentableId" value="Default" />
       <updated>1612164558052</updated>
       <workItem from="1612164566164" duration="4588000" />
+      <workItem from="1612246755864" duration="10428000" />
+      <workItem from="1612264999988" duration="3980000" />
+      <workItem from="1612326962638" duration="21736000" />
     </task>
     <servers />
   </component>
@@ -105,6 +130,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -118,5 +144,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612171611006" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612260271024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612260271024" />
   </component>
 </project>

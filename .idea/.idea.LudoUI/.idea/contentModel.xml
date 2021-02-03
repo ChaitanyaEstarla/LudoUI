@@ -18,6 +18,8 @@
           <e p="TabContentManager.cs" t="Include" />
           <e p="TabController.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
+          <e p="TransformAnimation.cs" t="Include" />
+          <e p="UIHandler.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">

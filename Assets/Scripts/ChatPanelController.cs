@@ -15,28 +15,26 @@ public class ChatPanelController : MonoBehaviour
 
     private void Start()
     {
-        myButton.onClick.AddListener(OnClick);
+        myButton.onClick.AddListener(OnClickActivate);
     }
 
-    public void OnClick()
-    {
-        StartCoroutine(OnClickActivate());
-    }
+    // public void OnClick()
+    // {
+    //     StartCoroutine(OnClickActivate());
+    // }
 
-    IEnumerator OnClickActivate()
+    public void OnClickActivate()
     {
         if (stateCheck == false)
         {
-            yield return new WaitForSeconds(1);
+            //yield return new WaitForSeconds(1);
             objectToActivate.SetActive(true);
             stateCheck = true;
-            Debug.Log("GG");
         }
-        else if (stateCheck == true)
+        else if (stateCheck)
         {
             objectesToDeactivate.SetActive(false);
             stateCheck = false;
-            Debug.Log("EZ");
         }
 
     }
