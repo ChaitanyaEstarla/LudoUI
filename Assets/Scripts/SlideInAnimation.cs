@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TransformAnimation : MonoBehaviour
+public class SlideInAnimation : MonoBehaviour
 {
     public RectTransform values;
     private Vector3 currentPos;

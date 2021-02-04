@@ -21,15 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="300ad22f-0f78-49d1-aa60-35ccc3851372" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideIntoViewport.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/SlideIntoViewport.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Top_Bar.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Top_Bar.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LUDO/Background DEMO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LUDO/Background DEMO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Shop&amp;SocialSection.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Shop&amp;SocialSection.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TransformAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TransformAnimation.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +42,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TabContentManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SlideInAnimation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SliderTextManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,6 +65,7 @@
         <option value="$PROJECT_DIR$/Assets/TransformAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameplayShopScrollController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TransformAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SlideInAnimation.cs" />
       </list>
     </option>
   </component>
@@ -112,6 +109,7 @@
       <workItem from="1612246755864" duration="10428000" />
       <workItem from="1612264999988" duration="3980000" />
       <workItem from="1612326962638" duration="21736000" />
+      <workItem from="1612413218136" duration="1640000" />
     </task>
     <servers />
   </component>
