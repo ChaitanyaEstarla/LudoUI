@@ -7,13 +7,14 @@ public class SlideInAnimation : MonoBehaviour
 {
     public RectTransform values;
     private Vector3 currentPos;
+    //public GameObject mainPanel;
     public float newX;
     public float newY;
     
+    
     private void OnEnable()
     {
-        values.anchoredPosition = GetComponent<RectTransform>().anchoredPosition;
-        currentPos = values.anchoredPosition; 
+        currentPos = values.anchoredPosition;
         StartCoroutine(lerpAnim());
     }
     

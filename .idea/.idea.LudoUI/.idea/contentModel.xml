@@ -7,13 +7,14 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="AnimationController.cs" t="Include" />
           <e p="ChatPanelController.cs" t="Include" />
           <e p="DailyTaskSliderText.cs" t="Include" />
+          <e p="FillInAnimation.cs" t="Include" />
           <e p="GameplayShopScrollController.cs" t="Include" />
           <e p="GameplayShopTabController.cs" t="Include" />
           <e p="GenerateLvlRewardsGrid.cs" t="Include" />
           <e p="MainMenuManager.cs" t="Include" />
+          <e p="PanelContentManager.cs" t="Include" />
           <e p="SlideInAnimation.cs" t="Include" />
           <e p="SliderTextManager.cs" t="Include" />
           <e p="TabContentManager.cs" t="Include" />
