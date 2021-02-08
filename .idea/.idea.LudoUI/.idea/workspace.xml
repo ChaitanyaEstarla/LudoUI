@@ -20,57 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="300ad22f-0f78-49d1-aa60-35ccc3851372" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LudoUI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/1V1_Button.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/1V1_Button.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/4P_Button.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/4P_Button.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/AnimationController.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/AnimationController.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/ChatButton.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/ChatButton.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Chat_Button.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Chat_Button.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/EventsAnim.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/EventsAnim.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Events_Button.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Events_Button.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/FadeInFadeOut.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/FadeInFadeOut.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/FillAnim.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/FillAnim.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Panel - Loading_Bg.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Panel - Loading_Bg.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Private_&amp;_Local_Buttoin.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Private_&amp;_Local_Buttoin.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Rank&amp;SettSection.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Rank&amp;SettSection.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Rank_&amp;_Settings_Img.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Rank_&amp;_Settings_Img.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Sheesh_Image.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Sheesh_Image.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Shop&amp;SocialSection.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Shop&amp;SocialSection.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Shop&amp;SocialSection.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Shop&amp;SocialSection.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideInFromTop.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideInFromTop.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideIntoViewport.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideIntoViewport.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideOutOfViewport.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/SlideOutOfViewport.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Top_Bar.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Top_Bar.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Tournament_Button.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Tournament_Button.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/VIP_Room_Button.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/VIP_Room_Button.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChatPanelController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlideInAnimation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SlideInAnimation.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +108,7 @@
       <workItem from="1612246755864" duration="10428000" />
       <workItem from="1612264999988" duration="3980000" />
       <workItem from="1612326962638" duration="21736000" />
-      <workItem from="1612413218136" duration="14374000" />
+      <workItem from="1612413218136" duration="15527000" />
     </task>
     <servers />
   </component>
